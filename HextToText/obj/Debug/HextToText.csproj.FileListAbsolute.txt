@@ -1,0 +1,8 @@
+c:\users\mikeb\onedrive\documents\visual studio 2013\Projects\HextToText\HextToText\bin\Debug\HextToText.exe.config
+c:\users\mikeb\onedrive\documents\visual studio 2013\Projects\HextToText\HextToText\bin\Debug\HextToText.exe
+c:\users\mikeb\onedrive\documents\visual studio 2013\Projects\HextToText\HextToText\bin\Debug\HextToText.pdb
+c:\users\mikeb\onedrive\documents\visual studio 2013\Projects\HextToText\HextToText\obj\Debug\HextToText.Form1.resources
+c:\users\mikeb\onedrive\documents\visual studio 2013\Projects\HextToText\HextToText\obj\Debug\HextToText.Properties.Resources.resources
+c:\users\mikeb\onedrive\documents\visual studio 2013\Projects\HextToText\HextToText\obj\Debug\HextToText.csproj.GenerateResource.Cache
+c:\users\mikeb\onedrive\documents\visual studio 2013\Projects\HextToText\HextToText\obj\Debug\HextToText.exe
+c:\users\mikeb\onedrive\documents\visual studio 2013\Projects\HextToText\HextToText\obj\Debug\HextToText.pdb

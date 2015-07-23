@@ -1,0 +1,9 @@
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\obj\Debug\HexToText.csprojResolveAssemblyReference.cache
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\obj\Debug\HextToText.Properties.Resources.resources
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\obj\Debug\HexToText.csproj.GenerateResource.Cache
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\bin\Debug\HexToText.exe.config
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\bin\Debug\HexToText.exe
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\bin\Debug\HexToText.pdb
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\obj\Debug\HexToText.exe
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\obj\Debug\HexToText.pdb
+C:\Users\mikeb\OneDrive\Documents\Visual Studio 2013\Projects\HextToText\HextToText\obj\Debug\HextToText.MainForm.resources
